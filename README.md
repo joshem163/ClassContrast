@@ -4,15 +4,16 @@
 
 # Overview
 
-ClassContrast is an innovative machine learning model for node classification that utilizes a contrastive approach, effectively integrating local neighborhood information and domain features of the nodes. This repository contains the code for the ClassContrast paper.
+ClassContrast is an innovative machine learning model for Graph representation learning that utilizes a contrastive approach, effectively integrating local neighborhood information and domain features of the nodes. This repository contains the code for the ClassContrast paper.
 # Requirements
 ClassContrast depends on the followings:
-1. natsort 8.4.0
-2. networkx 3.1
-3. ogb 1.3.6
-4. sklearn 1.3.0
-5. torch_geometric 2.4.0
-6. xgboost 2.0.1
+1. Pytorch
+2. Pyflagser
+3. networkx 3.1
+4. ogb 1.3.6
+5. sklearn 1.3.0
+6. torch_geometric 2.4.0
+7. natsort 8.4.0
    
 The code is implemented in python 3.11.4. 
 # Datasets
